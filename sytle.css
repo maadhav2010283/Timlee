@@ -1,0 +1,58 @@
+body{
+    text-align:center;
+    
+}
+#image1{
+    width:300px;
+    height:300px;
+    border-radius:50%; 
+    margin-top:50px;
+}
+#topsection{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0; 
+    height:600px;
+    background:linear-gradient(pink 0%,yellow 100%);
+    z-index: 949;
+    
+}
+h1{
+    font-size:40px;
+    font-family: 'Yuji Boku', serif;
+}
+#section2{
+    padding-top:600px;
+}
+.line{
+    height:6px;
+    width:150px;
+    background-color:blue;
+    margin:10px auto;
+}
+#text1{
+    font-size:18px;
+    max-width:500px; 
+    margin:40px auto;
+    
+}
+.navigate{
+    list-style: none;
+    margin-top: 0px;
+    position: fixed;
+    right: 50px;
+    z-index: 9999999;
+   
+        
+        
+}
+.link{
+    font-family: 'Comforter', cursive;
+    float: left;
+    padding:30px;
+    cursor: pointer;    
+}
+.link:hover{
+    background-color:lightgoldenrodyellow;
+}
