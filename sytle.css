@@ -47,12 +47,12 @@ h1{
         
         
 }
-.link{
+.links{
     font-family: 'Comforter', cursive;
     float: left;
     padding:30px;
     cursor: pointer;    
 }
-.link:hover{
+.links:hover{
     background-color:lightgoldenrodyellow;
 }
